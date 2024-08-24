@@ -8,6 +8,8 @@ contract Escrow {
     bool public buyerApproved;
     bool public sellerApproved;
     bool public fundsReleased;
+bool public fundsReleased;
+bool public fundsReleased;
     bool public fundsRefunded;
     uint256 public escrowEndTime;
 
